@@ -1,0 +1,13 @@
+This is a simple Python Script to find users in SMTP servers
+
+Inputs:
+1. IP
+2. <wordlist of usernames>
+
+Example how to use it:
+  # ./smtp_verifier 192.168.1.108 usernames.txt
+
+There are tons of things to do to improve this script, but I have not time at the moment. Maybe one day, 
+if I need to improve it, I'll come back here to change it.
+
+Under Beer-ware license protection.
