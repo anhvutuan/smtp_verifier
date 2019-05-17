@@ -1,11 +1,6 @@
 #!/usr/bin/python
 #
-# ----------------------------------------------------------------------------
-# "THE BEER-WARE LICENSE" (Revision 42):
-# <nunorrpinto@gmail.com> wrote this file. As long as you retain this notice you
-# can do whatever you want with this stuff. If we meet some day, and you think
-# this stuff is worth it, you can buy me a beer in return Nuno R. R. Pinto
-# ----------------------------------------------------------------------------
+# This is a simple script that tests if a user exists in a smtp server.
 #
 import socket
 import sys
